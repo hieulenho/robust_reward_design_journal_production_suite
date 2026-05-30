@@ -1,0 +1,44 @@
+[
+  {
+    "budget": 0.5,
+    "v1_star": 0.33866312,
+    "c_star": 0.0,
+    "standard_runtime_seconds": 0.22782469100002345,
+    "robust_runtime_seconds": 1.509427583000047
+  },
+  {
+    "budget": 1.0,
+    "v1_star": 0.62331162,
+    "c_star": 0.066666667,
+    "standard_runtime_seconds": 0.31891608500006896,
+    "robust_runtime_seconds": 4.2501621229999955
+  },
+  {
+    "budget": 1.5,
+    "v1_star": 0.66017875,
+    "c_star": 0.1,
+    "standard_runtime_seconds": 0.4015410870000551,
+    "robust_runtime_seconds": 3.496414697999967
+  },
+  {
+    "budget": 2.0,
+    "v1_star": 0.67646888,
+    "c_star": 0.0,
+    "standard_runtime_seconds": 0.09674003599991465,
+    "robust_runtime_seconds": 0.913166323999917
+  },
+  {
+    "budget": 2.4,
+    "v1_star": 0.67646887,
+    "c_star": 0.4,
+    "standard_runtime_seconds": 0.0941071900000452,
+    "robust_runtime_seconds": 1.2363208909999912
+  },
+  {
+    "budget": 3.0,
+    "v1_star": 0.67646888,
+    "c_star": 1.0,
+    "standard_runtime_seconds": 0.11291667000000416,
+    "robust_runtime_seconds": 1.7444668439999305
+  }
+]

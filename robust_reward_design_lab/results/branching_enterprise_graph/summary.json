@@ -1,0 +1,26 @@
+{
+  "case_name": "branching_enterprise_graph",
+  "budget": 2.0,
+  "v1_star": 0.7129749999999999,
+  "standard_runtime_seconds": 0.07649709599991183,
+  "robust_runtime_seconds": 0.2700436779999791,
+  "standard_pessimistic_value": 0.34294988,
+  "robust_pessimistic_value": 0.34294988,
+  "standard_optimistic_value": 0.712975,
+  "robust_optimistic_value": 0.712975,
+  "c_star": 0.0,
+  "standard_tau05_value": 0.5547154739642878,
+  "robust_tau05_value": 0.5547154739642878,
+  "standard_tau05_true_goal_prob": 0.36216413982504375,
+  "robust_tau05_true_goal_prob": 0.36216413982504375,
+  "standard_tau05_decoy_prob": 0.6378358601749565,
+  "robust_tau05_decoy_prob": 0.6378358601749565,
+  "standard_x": {
+    "8|end": 1.0,
+    "9|end": 1.0
+  },
+  "robust_x": {
+    "8|end": 1.0,
+    "9|end": 1.0
+  }
+}

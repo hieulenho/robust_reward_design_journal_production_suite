@@ -1,0 +1,26 @@
+{
+  "case_name": "lateral_movement_graph",
+  "budget": 1.8,
+  "v1_star": 0.7085076299999999,
+  "standard_runtime_seconds": 0.07120228500002668,
+  "robust_runtime_seconds": 0.1982349540000996,
+  "standard_pessimistic_value": 0.62908607,
+  "robust_pessimistic_value": 0.7085074,
+  "standard_optimistic_value": 0.70850762,
+  "robust_optimistic_value": 0.7085076299999999,
+  "c_star": 0.4,
+  "standard_tau05_value": 0.5467229954333711,
+  "robust_tau05_value": 0.6679692903032486,
+  "standard_tau05_true_goal_prob": 0.3752164597906318,
+  "robust_tau05_true_goal_prob": 0.23830220463703122,
+  "standard_tau05_decoy_prob": 0.6247835402093683,
+  "robust_tau05_decoy_prob": 0.7616977953629687,
+  "standard_x": {
+    "7|end": 0.0,
+    "8|end": 1.0
+  },
+  "robust_x": {
+    "7|end": 0.4,
+    "8|end": 1.4
+  }
+}

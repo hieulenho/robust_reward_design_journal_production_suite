@@ -1,0 +1,6 @@
+case_name,scale,num_states,target_use,method,primary_question
+paper_style_attack_graph,small,13,Exact replication/exposition,exact,Does robust allocation close the optimistic-pessimistic gap?
+branching_enterprise_graph,small,14,Budget stress/existence failure,exact,When does the robust margin collapse to zero?
+lateral_movement_graph,small,16,Enterprise lateral movement,exact,How much does robustness reduce true-goal reachability?
+large_enterprise_64,large,65,Scalable benchmark,scalable,How well does top-k intervention screening preserve defender value?
+large_enterprise_120,large,121,Production-scale benchmark,scalable,How does the scalable pipeline behave when the graph nearly doubles in size?

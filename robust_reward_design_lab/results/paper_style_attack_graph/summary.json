@@ -1,0 +1,26 @@
+{
+  "case_name": "paper_style_attack_graph",
+  "budget": 2.4,
+  "v1_star": 0.67646887,
+  "standard_runtime_seconds": 0.10012704400003258,
+  "robust_runtime_seconds": 1.2313825060000454,
+  "standard_pessimistic_value": 0.32923197000000004,
+  "robust_pessimistic_value": 0.67646842,
+  "standard_optimistic_value": 0.67646888,
+  "robust_optimistic_value": 0.67646887,
+  "c_star": 0.4,
+  "standard_tau05_value": 0.5526049804687498,
+  "robust_tau05_value": 0.6233841313311856,
+  "standard_tau05_true_goal_prob": 0.35546875,
+  "robust_tau05_true_goal_prob": 0.2729154321840668,
+  "standard_tau05_decoy_prob": 0.6445312499999998,
+  "robust_tau05_decoy_prob": 0.7270845678159332,
+  "standard_x": {
+    "10|end": 1.0,
+    "11|end": 1.0
+  },
+  "robust_x": {
+    "10|end": 1.0,
+    "11|end": 1.4
+  }
+}
