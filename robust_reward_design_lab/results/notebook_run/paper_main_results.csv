@@ -1,0 +1,4 @@
+Case,|S|,|Int|,Budget C,v1*,c*,Std Opt,Std Pes,Std Gap,Rob Opt,Rob Pes,Rob Gap,ΔPes (Rob−Std),Std τ.05 TGP,Rob τ.05 TGP,Std τ.05 DeP,Rob τ.05 DeP,Std RT(s),Rob RT(s)
+paper_style_attack_graph,13,2,2.4,0.6765,0.4,0.6765,0.3292,0.3472,0.6765,0.6765,0.0,0.3472,0.3555,0.2729,0.6445,0.7271,0.13,0.44
+branching_enterprise_graph,11,2,2.0,0.713,0.0,0.713,0.3429,0.37,0.713,0.3429,0.37,0.0,0.3622,0.3622,0.6378,0.6378,0.04,0.09
+lateral_movement_graph,10,2,1.8,0.7085,0.4,0.7085,0.6291,0.0794,0.7085,0.7085,0.0,0.0794,0.3752,0.2383,0.6248,0.7617,0.04,0.13

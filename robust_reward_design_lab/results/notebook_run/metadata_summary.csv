@@ -1,0 +1,4 @@
+Case,|S|,|A| max,|SA|,Interventions,Budget C,Discount γ,True Goals,Decoy Sites,Total Transitions
+paper_style_attack_graph,13,4,40,2,2.4,0.95,1,2,132
+branching_enterprise_graph,11,4,32,2,2.0,0.95,1,2,88
+lateral_movement_graph,10,4,28,2,1.8,0.95,1,2,76

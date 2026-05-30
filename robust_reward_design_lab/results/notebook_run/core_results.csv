@@ -1,0 +1,4 @@
+Case,Budget C,v1* (Standard),c* (Robust margin),Std Opt Value,Std Pes Value,Std Gap (Opt-Pes),Rob Opt Value,Rob Pes Value,Rob Gap (Opt-Pes),Pes Improvement,Std Runtime (s),Rob Runtime (s)
+paper_style_attack_graph,2.4,0.67647,0.40000,0.67647,0.32923,0.34724,0.67647,0.67647,0.00000,+0.34724,0.13,0.44
+branching_enterprise_graph,2.0,0.71297,0.00000,0.71298,0.34295,0.37003,0.71298,0.34295,0.37003,+0.00000,0.04,0.09
+lateral_movement_graph,1.8,0.70851,0.40000,0.70851,0.62909,0.07942,0.70851,0.70851,0.00000,+0.07942,0.04,0.13
